@@ -1,6 +1,6 @@
 {
 	"version": "1.0.1",
-	"updateUrl": "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/10-million-password-list-top-1000000.txt",
+	"updateUrl": "https://raw.githubusercontent.com/Syntax0xError/dolphin/main/test.zip",
 	"release_notes": [
 		"Beta release."
 	]
