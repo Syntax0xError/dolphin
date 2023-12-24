@@ -1,6 +1,6 @@
 {
 	"version": "1.0.1",
-	"updateUrl": "https://github.com/danielmiessler/SecLists/raw/master/Passwords/Common-Credentials/10-million-password-list-top-1000000.txt",
+	"updateUrl": "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/10-million-password-list-top-1000000.txt",
 	"release_notes": [
 		"Beta release."
 	]
