@@ -1,7 +1,7 @@
 {
 	"version": "1.0.1",
 	"updateUrl": "https://raw.githubusercontent.com/Syntax0xError/dolphin/main/test.zip",
-	"release_notes": [
+	"releaseNotes": [
 		"Beta release."
 	]
 }
